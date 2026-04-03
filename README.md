@@ -1,10 +1,8 @@
 📦 Operational Lead Time: From Data Chaos to Strategy
 
-[](https://www.google.com/url?sa=E&source=gmail&q=https://your-app-link.streamlit.app)
-
 📌 Live Demo
 
-🚀 **Access the Interactive Dashboard:** [https://your-app-link.streamlit.app](https://www.google.com/url?sa=E&source=gmail&q=https://your-app-link.streamlit.app)
+🚀 Access the Interactive Dashboard:https://operational-bottleneck-discovery-mq6rh2lub5ftmeq9tjtbsp.streamlit.app/
 
 🖼️ Dashboard Preview
 
